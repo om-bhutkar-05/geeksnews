@@ -1,15 +1,17 @@
 import React, { Component } from 'react'
 
 export class NewsItem extends Component {
+  
   render() {
     let {title,desc,Url,newsid,author,date,source}=this.props;
     return (
       <>
       <div className="card my-4" style={{width:"18rem"}}>
-      <span className="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left:'95%',zIndex:'1'}}>
+        <div>
+      <span className="position-absolute  badge rounded-pill bg-danger" >
     {source}
   </span>
-
+  </div>
   <img src={Url}  className="card-img-top" alt="" />
   <div className="card-body">
   <h6> <span className="badge text-bg-secondary">New</span></h6>
