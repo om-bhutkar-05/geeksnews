@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/geeksnews/static/css/main.e6c13ad2.css",
+    "main.js": "/geeksnews/static/js/main.7a832220.js",
+    "static/js/453.44c002ca.chunk.js": "/geeksnews/static/js/453.44c002ca.chunk.js",
+    "static/media/default.png": "/geeksnews/static/media/default.5c6d8aa074e067d40966.png",
+    "index.html": "/geeksnews/index.html",
+    "main.e6c13ad2.css.map": "/geeksnews/static/css/main.e6c13ad2.css.map",
+    "main.7a832220.js.map": "/geeksnews/static/js/main.7a832220.js.map",
+    "453.44c002ca.chunk.js.map": "/geeksnews/static/js/453.44c002ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7a832220.js"
+  ]
+}
